@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Users/TerceiroVespertino/Desktop/prova caua/provacaua"
+		},
+		{
+			"path": "../../../../Users/TerceiroVespertino/Documents/Corona Projects/cauasprites3f"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
